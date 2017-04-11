@@ -10,7 +10,7 @@ using System.Data;
 using System.Drawing;
 
 
-namespace timer_in_console
+namespace Thread
 {
     class Program
     {
